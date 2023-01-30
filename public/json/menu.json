@@ -1,0 +1,60 @@
+{
+
+"menu": [
+
+    {
+        "kategori" : "pizza",
+        "nama" : "Meat Lover",
+        "deskripsi" : "irisan sosis sapi",
+        "harga" : 49500,
+        "gambar" : "images/Pizza 001 jpg"
+    },
+
+    {
+        "kategori" : "pizza",
+        "nama" : "Super Supreme",
+        "deskripsi" : "Daging Ayam dan Sapi asap",
+        "harga" : 49500,
+        "gambar" : "images/Pizza 002 jpg"
+    },
+
+    {
+        "kategori" : "pizza",
+        "nama" : "Tuna",
+        "deskripsi" : "irisan Ikan Tuna ",
+        "harga" : 49500,
+        "gambar" : "images/Pizza 003 jpg"
+    },
+
+    {
+        "kategori" : "pasta",
+        "nama" : "Pasta 001",
+        "deskripsi" : "irisan sosis sapi",
+        "harga" : 49500,
+        "gambar" : "images/Pasta 001 jpg"
+    },
+
+    {
+        "kategori" : "pasta",
+        "nama" : "Pasta 002",
+        "deskripsi" : "irisan sosis sapi",
+        "harga" : 49500,
+        "gambar" : "images/Pasta 002 jpg"
+    },
+
+    {
+        "kategori" : "pasta",
+        "nama" : "Pasta 003",
+        "deskripsi" : "irisan sosis sapi",
+        "harga" : 49500,
+        "gambar" : "images/Pasta 003 jpg"
+    }
+
+
+
+
+]
+
+
+
+}
